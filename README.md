@@ -7,3 +7,4 @@
 	};
 
 2. Generates `reading_list.md`
+3. The list generated is used [here](www.vaibhavgupta.me/projects/reading-list/);
